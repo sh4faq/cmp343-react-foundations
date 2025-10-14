@@ -38,7 +38,7 @@ export default function HomePage() {
 
   return (
     <div style={{ maxWidth: '800px', margin: '0 auto', padding: '20px' }}>
-      <Header title="Develop. Preview. Ship. 🚀" />
+      <Header title="Develop. Preview. Ship. " />
       
       <div style={{ 
         backgroundColor: '#f0f8ff', 
@@ -47,7 +47,7 @@ export default function HomePage() {
         margin: '20px 0',
         borderLeft: '4px solid #4CAF50'
       }}>
-        <h3>🎉 React Foundations Tutorial Complete!</h3>
+        <h3> React Foundations Tutorial Complete!</h3>
         <p><strong>Chapter 3:</strong> Updated UI with JavaScript</p>
         <p><strong>Chapter 4:</strong> Got started with React</p>
         <p><strong>Chapter 5:</strong> Built UI with Components</p>
